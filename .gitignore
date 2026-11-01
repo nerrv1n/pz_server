@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+
+!Saves/
+!Saves/**
+
+!Server/
+!Server/**
